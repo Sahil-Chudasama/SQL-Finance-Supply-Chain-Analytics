@@ -26,11 +26,14 @@ The expanding size of Excel files has led to performance problems, resulting in 
 5. In APAC, region India ranks 1 in terms of total gross sales.
 
 
-## 🔗 Links
-portfolio: [Click here](https://codebasics.io/portfolio/Chudasama-Sahil-NileshBhai)
-linkedin: [Click here](https://www.linkedin.com/in/sahil-chudasama-6775b8273/)
+ 
 ### Repository Contents
 
 1. **SQL Queries:** Contains the SQL queries used to extract and analyze data from the AtliQ Hardwares dataset. [SQL Queries.pdf](https://drive.google.com/file/d/1I9YCrmdfRVz2pWmhFn8x7q9-u4tzkJKs/view?usp=drive_link)
 
 2. **PPT:**  [Finance  & Supply Chain Analytics - SQL PROJECT.pptx](https://docs.google.com/presentation/d/14q7SD0M1cjoi2fJ471mTBvah3Hu-lfHl/edit?usp=drive_link&ouid=103880347539635380818&rtpof=true&sd=true)
+
+
+
+portfolio: [Click here](https://codebasics.io/portfolio/Chudasama-Sahil-NileshBhai)
+linkedin: [Click here](https://www.linkedin.com/in/sahil-chudasama-6775b8273/)
