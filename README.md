@@ -31,7 +31,7 @@ The expanding size of Excel files has led to performance problems, resulting in 
 
 1. **SQL Queries:** Contains the SQL queries used to extract and analyze data from the AtliQ Hardwares dataset. [SQL Queries.pdf](https://drive.google.com/file/d/1I9YCrmdfRVz2pWmhFn8x7q9-u4tzkJKs/view?usp=drive_link)
 
-2. **PPT:**  [Finance  & Supply Chain Analytics - SQL PROJECT.pptx](https://docs.google.com/presentation/d/14q7SD0M1cjoi2fJ471mTBvah3Hu-lfHl/edit?usp=drive_link&ouid=103880347539635380818&rtpof=true&sd=true)
+2. **PPT:**  [Finance  & Supply Chain Analytics - SQL PROJECT.pptx](https://docs.google.com/presentation/d/1GlBZqeVSocYAvz8Zvh4c5CYg5nZwIDMv/edit?usp=drive_link&ouid=103880347539635380818&rtpof=true&sd=true)
 
 
 
